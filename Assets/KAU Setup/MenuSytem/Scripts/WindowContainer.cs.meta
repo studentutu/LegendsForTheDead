@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 205f52c5daf4a6d46b6c2353f503cc1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlurMenuPrefab: {fileID: 114788793834428922, guid: 5dc782d28bc958c4ca5f858b5aac6993,
+      type: 2}
+  - MainMenuPrefab: {fileID: 114423638328143780, guid: 3c6cede40ad0b9844ab41a6d9d128656,
+      type: 2}
+  - ShopPrefab: {fileID: 114775419017652278, guid: 66220a1db86e66a49ad4a73d4540b5ef,
+      type: 2}
+  - ConnectionLossPrefabMenu: {fileID: 114772787190906178, guid: dfcb3cb7c27ec99478f124b4c9b27a86,
+      type: 2}
+  - StandartTopPrefab: {fileID: 114613575571349154, guid: f899bf3fb8f547b4a82270c3d9c40ff5,
+      type: 2}
+  - canvasAsParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

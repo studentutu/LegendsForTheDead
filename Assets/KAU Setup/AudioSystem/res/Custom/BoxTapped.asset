@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9bc3954ac510be4ea33aa2ab24e8c3d, type: 3}
+  m_Name: BoxTapped
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: bb91208f6ffa4794dbd54ec8dd1d7169, type: 3}
+  InterpolateType: 0
+  OnStartSoundInterpolateTime: 1
+  OnStopSoundInterpolateTime: 1
+  volumeDecibels: 0
+  pitchMin: 0
+  pitchMax: 0
+  loop: 0
+  soundGroup: 3
+  Duplication: 1

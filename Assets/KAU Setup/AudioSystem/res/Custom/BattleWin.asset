@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9bc3954ac510be4ea33aa2ab24e8c3d, type: 3}
+  m_Name: BattleWin
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 2129c2b7005dc9a4e8111901ff791e38, type: 3}
+  volumeDecibels: 0
+  pitchMin: 0
+  pitchMax: 0
+  loop: 0
+  soundGroup: 2
+  Unique: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e02a46862c2d1cc45ae67213f0a4888f, type: 3}
+  m_Name: MixerSettings
+  m_EditorClassIdentifier: 
+  MixerVolumes:
+  - 0.0417127
+  - 6.648677
+  - -1.2918875
+  - -4.653023
+  - -24.162655
+  - 0

@@ -630,7 +630,6 @@ namespace KAUGamesLviv.Services.Bundles
                 AssetBundle bundle = ((UnityEngine.Networking.DownloadHandlerAssetBundle)request.downloadHandler).assetBundle;
                 // UnityEngine.Networking.DownloadHandlerAssetBundle.GetContent(request);
 
-                Log(" Loading From Streaming Assets into cache ? : " + ((bundle == null) ? "Failure" : "Succes"));
                 // Remove from memory to allow Caching logic do it's job
                 if (bundle != null)
                     bundle.Unload(true);

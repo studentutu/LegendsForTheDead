@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Name: ResourceLoader
   m_EditorClassIdentifier: 
   typeOfDependency: 2
-  belongingContext: 1
-  PathToPrefab: DepInjectionTest/ResourceLoader
+  belongingContext: 2
+  PathToPrefab: 
+  IsMono: 0

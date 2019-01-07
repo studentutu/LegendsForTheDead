@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Name: EventManagerSettings
   m_EditorClassIdentifier: 
   typeOfDependency: 0
-  belongingContext: 0
-  PathToPrefab: DepInjectionTest/CheckEventManager
+  belongingContext: 1
+  PathToPrefab: CheckEventManager
+  IsMono: 1

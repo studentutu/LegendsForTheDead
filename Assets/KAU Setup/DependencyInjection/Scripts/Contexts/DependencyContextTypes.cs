@@ -3,8 +3,9 @@ namespace Services.DependencyInjection
 {
     public enum DependencyContextTypes 
     {
-        Scene = 0,
-		Global = 1
+        None = 0,
+        Scene = 1,
+		Global = 2
        
     }
 }

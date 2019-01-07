@@ -9,12 +9,7 @@ public class TestDepInj : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        Dependencies.Get(ToLoad);
+        Dependencies.Get<CheckForEventManagerCanvas>(ToLoad,false);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }

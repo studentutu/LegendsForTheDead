@@ -118,7 +118,7 @@ namespace Services.DependencyInjection
             }
 
             result.setMyTypeSettings(typeSettings);
-            result = Get<T>(typeSettings, OnDestroy);
+            // result = Get<T>(typeSettings, OnDestroy); // only for debugging!
             return result;
         }
 

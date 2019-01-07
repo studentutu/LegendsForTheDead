@@ -1,0 +1,6 @@
+v. 0.1.0
+
+TO DO :
+	- change context creation (Make a struct, let the hashcode be an Identifier for context)
+	- make an editor for IDependencyContext
+	
